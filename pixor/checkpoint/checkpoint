@@ -1,0 +1,4 @@
+model_checkpoint_path: "pixor_val_loss=9258.6826.ckpt-2"
+all_model_checkpoint_paths: "pixor_val_loss=9053.2373.ckpt-1"
+all_model_checkpoint_paths: "pixor_val_loss=8943.0791.ckpt-2"
+all_model_checkpoint_paths: "pixor_val_loss=9258.6826.ckpt-2"
